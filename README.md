@@ -1,6 +1,3 @@
-## 💫 About Me
-I am currently working on the second version of MicroWatch OS for Microbit with more features.  
-I am new to GitHub, and this is my first public project!
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/v9rkwMxG)
